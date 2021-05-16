@@ -1,7 +1,8 @@
 /**
  * Mziyanda Mwanda
  * 215133765
- * ADP 3 - Assignment 2
+ * ADP 3
+ * Assignment 2
  * 16 May 2021
  * **/
 package za.ac.cput;
