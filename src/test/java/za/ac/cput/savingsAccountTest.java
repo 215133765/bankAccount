@@ -29,7 +29,7 @@ class savingsAccountTest {
         colSavA.add(new savingsAccount(4, "Anele"));
         colSavA.add(new savingsAccount(5, "Smidtz"));
 
-        System.out.println("The 4 element of the list have been successfully added");
+        System.out.println("The 5 element of the list have been successfully added");
         assertEquals(5, colSavA.size());
 
         //CollectionRemove
@@ -39,7 +39,7 @@ class savingsAccountTest {
 
         //CollectionFinds
         boolean find = colSavA.contains(new savingsAccount(3, "Coetz"));
-        System.out.println("The element in index 2 was found");
+        System.out.println("The element in index 3 was found");
         assertEquals(4,colSavA.size());
 
     }
